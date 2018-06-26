@@ -1,5 +1,5 @@
 <?php
 
-echo  "Hello World! We lost here in Iran. Please help!";
+echo  "Hello World! We lost here. Please help!";
 
 ?>
